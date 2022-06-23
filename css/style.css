@@ -1,0 +1,45 @@
+.header{
+	min-height: 100px ;
+	background-color: green;
+}
+
+
+
+.wrapper{
+	border: 10px solid purple;
+	overflow: hidden;
+}
+
+.contact{
+	float: left;
+	width: 60%;
+min-height: 200px;
+background-color: coral;
+}
+
+.blog{
+	float: right;
+	width: 40%;
+min-height: 200px;
+background-color:maroon;
+}
+
+.box{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+}
+.green{
+	background-color: green;
+}
+
+.coral{
+	background-color: coral;
+}
+.maroon{
+	background-color: maroon;
+}
+.footer{
+	min-height: 100px ;
+	background-color: royalblue;
+}
